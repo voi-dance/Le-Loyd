@@ -1,0 +1,54 @@
+{
+  "name": "Void",
+  "aliases": ["Voidance", "Dante"],
+  "last_updated": "2026-07-19",
+
+  "tech_and_creation": {
+    "core_trait": "Pushes hardware and software far past their intended limits, driven by necessity and curiosity rather than access to premium tools.",
+    "current_projects": [
+      {
+        "name": "Vanta",
+        "type": "Android companion app / AI assistant",
+        "status": "In active development, rebuilding from scratch with memory-first architecture",
+        "notes": "Full name: Versatile Adaptive Neural Trusted Assistant. Personality inspired by Raven (Teen Titans) — calm, loyal. Built primarily on Sketchware Pro and Acode."
+      },
+      {
+        "name": "Nyumba",
+        "type": "Web-based student housing platform for Zambia",
+        "status": "In development, working title",
+        "notes": "Mobile-first, dark-themed, Airbnb-style directory for off-campus housing near Zambian universities. Uses WhatsApp for contact handoff instead of in-app booking. Design system: Space Grotesk/Inter typography, navy + warm orange accents."
+      }
+    ],
+    "dev_environment": "Builds primarily on a Tecno Pop 9 (budget device, 3-4GB RAM, Android Go edition) using Sketchware Pro and Acode. No access to a proper dev machine or PC (backup PC currently unstable, crashes and restarts on boot).",
+    "hardware_track_record": "Runs demanding software on hardware never designed for it: GameCube emulation (Dolphin) for SA2B, Shadow the Hedgehog, Twilight Princess; open-world titles like Subnautica, Where Winds Meet; narrative titles like Life is Strange; platformers like Rain World. Regularly manages storage constraints via factory resets and SD card swaps.",
+    "current_goal": "Saving toward a REDMAGIC 11 Pro; exploring a cheaper intermediate step (used REDMAGIC 8 Pro/8S Pro) as a nearer-term upgrade from the Pop 9.",
+    "exploring": "AI agent development as a potential side-hustle/business niche, specifically interested in lightweight/on-device AI for low-resource hardware and WhatsApp-integrated tools — a natural extension of existing dev work.",
+    "video_editing": "Also does independent video editing work."
+  },
+
+  "creative_and_worldbuilding": {
+    "notes": "Wide-ranging creative mind, associative thinking style that branches across topics in unexpected but coherent ways. Often prefaces original ideas dismissively before developing them into sophisticated concepts.",
+    "past_projects": [
+      "Saryū — Primordial Sand Dragon character with an associated cosmology (creator dragon Dante, Council of Gods)",
+      "Divine Convergence — darker villain-protagonist concept",
+      "\"Presents\" — mental-health-based power system with publicly visible status cards",
+      "Celeste/Celestia — galaxy-dog fursona"
+    ],
+    "music": "Wrote original song lyrics including \"Milu\" (romantic) and \"The Low Bar\" (Irish pub folk style, incorporates ADHD themes)."
+  },
+
+  "interests": {
+    "anime": "Mid-rewatch of One Piece (low 200s, arc-chunked pacing). Plans to binge That Time I Got Reincarnated as a Slime S4. Developed an original theory connecting the \"D.\" initial to devil/divine symbolism.",
+    "gaming": "Retro emulation, GameCube era, power-scaling debates (Dragon Ball vs Invincible, Aang vs Korra) — builds evidence-based arguments from canon feats.",
+    "language_and_culture": "Learning Irish and Japanese simultaneously, both via free tools. Exploring Irish mythology (Tuatha Dé Danann, Cú Chulainn, the Morrígan) and connecting it to worldbuilding interests.",
+    "streaming": "Planning a co-streaming setup on Twitch with a close friend (parallel Pokémon Platinum playthrough). Twitch Affiliate is a first milestone goal; streaming is a gradual way to work through being seen by others."
+  },
+
+  "personal_context": {
+    "location": "Zambia",
+    "communication_style": "Casual, fast, associative, humor-forward, informal spelling. Prefers direct honest engagement over flattery.",
+    "support_structure": "One close friend who serves as a key support anchor.",
+    "navigates": "Social anxiety that limits conventional employment and in-person interaction.",
+    "regulation_strategy": "Uses creative work (music, worldbuilding, video editing) as an emotional regulation strategy."
+  }
+}
